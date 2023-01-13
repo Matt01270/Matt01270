@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there :wave: 
 
-<!--
-**Matt01270/Matt01270** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I'm Matt, a front-end web developer from the UK based in Ontario, Canada 🇨🇦. I really enjoy learning new languages and libraries and have a passion for creating visually stunning websites and have a keen eye for accessabilty and responsive design 👀. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My skills include:
+
+- HTML 
+- CSS & SASS 
+- JavaScript & React.js  
+- RESTful APIs & Firebase
+- Git and GitHub 
+
+I'm currently completing a wide variety of projects whilst studying at Juno College of Technology in Toronto (don't be shy, checkout my work so far! 💻). Please don't hesitate to reach out if you have any questions or are interested in working together on something - I look forward to hearing from you 😎
