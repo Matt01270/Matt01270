@@ -11,4 +11,3 @@ My skills include:
 - RESTful APIs & Firebase
 - Git and GitHub 
 
-I'm currently completing a wide variety of projects whilst studying at Juno College of Technology in Toronto (don't be shy, checkout my work so far! 💻). Please don't hesitate to reach out if you have any questions or are interested in working together on something - I look forward to hearing from you 😎
